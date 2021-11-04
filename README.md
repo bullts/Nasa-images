@@ -8,5 +8,4 @@ Application showing pictures from the NASA satellite along with a minimap to sho
 -javascript
 -react
 
-To get api keys write to me wiktor4444@gmail.com
-and then paste them into the .env file
+If you want api keys feel free to ask me
